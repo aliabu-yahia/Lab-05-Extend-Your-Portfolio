@@ -1,7 +1,7 @@
 {
-  "name": "class-05-heroku-demo",
+  "name": "Lab-05-Extend-Your-Portfolio",
   "version": "1.0.0",
-  "description": "class 05 heroku demo",
+  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,16 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thamudi/class-05-heroku-demo.git"
+    "url": "git+https://github.com/aliabu-yahia/Lab-05-Extend-Your-Portfolio.git"
   },
-  "author": "thamudi",
-  "license": "MIT",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/thamudi/class-05-heroku-demo/issues"
+    "url": "https://github.com/aliabu-yahia/Lab-05-Extend-Your-Portfolio/issues"
   },
-  "homepage": "https://github.com/thamudi/class-05-heroku-demo#readme",
-  "dependencies": {
-    "dotenv": "^8.2.0",
-    "express": "^4.17.1"
-  }
+  "homepage": "https://github.com/aliabu-yahia/Lab-05-Extend-Your-Portfolio#readme"
 }
